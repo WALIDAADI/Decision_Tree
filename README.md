@@ -45,9 +45,10 @@ An extension of ID3 that handles continuous data and incomplete datasets, and it
 ## Results
 All three models performed similarly well on the Iris dataset with accuracies around 97%. Here's a summary of their performance:
 
-Model	Accuracy	Precision	Recall	F1-Score
-CART	0.97	0.97	0.97	0.97
-ID3	0.97	0.97	0.97	0.97
-C4.5	0.97	0.97	0.97	0.97
+| Model  | Accuracy | Precision | Recall | F1-Score |
+|--------|----------|-----------|--------|----------|
+| CART   | 0.97     | 0.97      | 0.97   | 0.97     |
+| ID3    | 0.97     | 0.97      | 0.97   | 0.97     |
+| C4.5   | 0.97     | 0.97      | 0.97   | 0.97     |
 
    
